@@ -13,6 +13,8 @@ The primary objectives of this project are to:
 - Calculate the proportion and percentage of schools in specific categories across Metro Vancouver.  
 - Identify patterns and trends in the distribution of school categories within various geographical areas.
 
+- 
+
   ![image](https://github.com/user-attachments/assets/a30d357d-e8bf-4259-9f88-c17268dcc387)
 
 
@@ -23,6 +25,8 @@ The dataset was sourced from the Vancouver government website and includes the f
 - **School Name**: Name of the school.  
 - **Category**: Type of school (e.g., public, independent).  
 - **Location**: Geographical area where the school is located.
+
+- 
 
   ![image](https://github.com/user-attachments/assets/662eb064-7428-4e22-be1f-fc920e669d7f)
 
@@ -43,6 +47,8 @@ The dataset was sourced from the Vancouver government website and includes the f
 - Designed an automated data pipeline using **AWS Glue** to process the cleaned dataset.  
 - Configured the pipeline to calculate proportions and percentages of school categories in different geographical areas.
 
+- 
+
   ![image](https://github.com/user-attachments/assets/e6a19bd0-5b78-4f23-95f1-5dba868a3dc7)
 
 
@@ -51,11 +57,12 @@ The dataset was sourced from the Vancouver government website and includes the f
 #### **Descriptive Analysis**  
 - **Question**: What percentage of schools in a specific area fall into a particular category?  
 - **Formula Used**:  
-  \[
-  \text{Percentage of School Category in Area} = \left( \frac{\text{Count of Specific School Category in Area}}{\text{Total Schools in Area}} \right) \times 100
-  \]  
+{Percentage of School Category in Area} = {Count of Specific School Category in Area}}\{Total Schools in Area}times 100
+  
 - **Result**:  
   - In Kitsilano, **55.56% of schools** are independent, reflecting the area's educational landscape.
+ 
+  - 
  
     ![image](https://github.com/user-attachments/assets/12b1433e-040c-4ec2-a698-5017dc8fa86d)
 
@@ -63,12 +70,14 @@ The dataset was sourced from the Vancouver government website and includes the f
 #### **Exploratory Analysis**  
 - **Question**: What is the proportion of schools in a specific category in a given geographical area?  
 - **Formula Used**:  
-  \[
-  \text{Proportion of School Category} = \frac{\text{Count of Schools in a Category}}{\text{Total Schools in Geo Local Area}}
-  \]  
+  {Proportion of School Category} = {Count of Schools in a Category}/{Total Schools in Geo Local Area}
+
+  
 - **Results**:  
   - Metro Vancouver has **36 independent schools**.  
   - Downtown Vancouver has **2 schools**, with **1 being independent**, resulting in a proportion of **18% independent schools**.
+ 
+  - 
  
     ![image](https://github.com/user-attachments/assets/c6e6e103-8076-4af8-8992-f09440fab460)
 
@@ -90,6 +99,8 @@ The dataset was sourced from the Vancouver government website and includes the f
 - **AWS Glue DataBrew**: For cleaning and profiling the dataset.  
 - **AWS Glue Pipelines**: For automating the data processing workflow.  
 - **AWS CloudWatch**: For monitoring the pipeline and validating results.
+
+- 
 
   ![image](https://github.com/user-attachments/assets/0a7e22b9-1ae5-46f3-ba5b-04161dc07537)
 
