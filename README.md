@@ -65,7 +65,10 @@ The dataset was sourced from the Vancouver government website and includes the f
   \]  
 - **Results**:  
   - Metro Vancouver has **36 independent schools**.  
-  - Downtown Vancouver has **2 schools**, with **1 being independent**, resulting in a proportion of **18% independent schools**.  
+  - Downtown Vancouver has **2 schools**, with **1 being independent**, resulting in a proportion of **18% independent schools**.
+ 
+    ![image](https://github.com/user-attachments/assets/c6e6e103-8076-4af8-8992-f09440fab460)
+
 
 ### **4. Monitoring and Validation**  
 - Used **AWS CloudWatch** to monitor the pipeline’s performance and validate the results.  
