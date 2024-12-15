@@ -52,7 +52,10 @@ The dataset was sourced from the Vancouver government website and includes the f
   \text{Percentage of School Category in Area} = \left( \frac{\text{Count of Specific School Category in Area}}{\text{Total Schools in Area}} \right) \times 100
   \]  
 - **Result**:  
-  - In Kitsilano, **55.56% of schools** are independent, reflecting the area's educational landscape.  
+  - In Kitsilano, **55.56% of schools** are independent, reflecting the area's educational landscape.
+ 
+    ![image](https://github.com/user-attachments/assets/12b1433e-040c-4ec2-a698-5017dc8fa86d)
+
 
 #### **Exploratory Analysis**  
 - **Question**: What is the proportion of schools in a specific category in a given geographical area?  
