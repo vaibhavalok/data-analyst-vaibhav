@@ -37,6 +37,9 @@ The dataset was sourced from the Vancouver government website and includes the f
 - Designed an automated data pipeline using **AWS Glue** to process the cleaned dataset.  
 - Configured the pipeline to calculate proportions and percentages of school categories in different geographical areas.
 
+  ![image](https://github.com/user-attachments/assets/e6a19bd0-5b78-4f23-95f1-5dba868a3dc7)
+
+
 ### **3. Analysis**  
 
 #### **Descriptive Analysis**  
