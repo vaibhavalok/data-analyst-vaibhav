@@ -89,7 +89,10 @@ The dataset was sourced from the Vancouver government website and includes the f
 ## Tools and Technologies  
 - **AWS Glue DataBrew**: For cleaning and profiling the dataset.  
 - **AWS Glue Pipelines**: For automating the data processing workflow.  
-- **AWS CloudWatch**: For monitoring the pipeline and validating results.  
+- **AWS CloudWatch**: For monitoring the pipeline and validating results.
+
+  ![image](https://github.com/user-attachments/assets/0a7e22b9-1ae5-46f3-ba5b-04161dc07537)
+
 
 ---
 
