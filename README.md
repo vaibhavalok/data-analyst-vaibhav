@@ -19,7 +19,10 @@ The primary objectives of this project are to:
 The dataset was sourced from the Vancouver government website and includes the following key attributes:  
 - **School Name**: Name of the school.  
 - **Category**: Type of school (e.g., public, independent).  
-- **Location**: Geographical area where the school is located.  
+- **Location**: Geographical area where the school is located.
+
+  ![image](https://github.com/user-attachments/assets/662eb064-7428-4e22-be1f-fc920e669d7f)
+
 
 ---
 
