@@ -11,7 +11,10 @@ The workflow includes dataset cleaning and profiling, pipeline automation, and m
 ## Objective  
 The primary objectives of this project are to:  
 - Calculate the proportion and percentage of schools in specific categories across Metro Vancouver.  
-- Identify patterns and trends in the distribution of school categories within various geographical areas.  
+- Identify patterns and trends in the distribution of school categories within various geographical areas.
+
+  ![image](https://github.com/user-attachments/assets/a30d357d-e8bf-4259-9f88-c17268dcc387)
+
 
 ---
 
